@@ -41,7 +41,8 @@ while True:
 ~~~
 
 ## OUPUT
-<img width="1042" height="320" alt="image" src="https://github.com/user-attachments/assets/d0b155d5-014c-4e2b-a596-85f169b57981" />
+<img width="1917" height="1026" alt="image" src="https://github.com/user-attachments/assets/849beebe-2e61-4d34-8b0a-cc4c28acd875" />
+
 
 ## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed
+Thus, python program to perform stop and wait protocol was successfully executed.
